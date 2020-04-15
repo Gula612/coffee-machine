@@ -1,1 +1,1 @@
-# coffee-machine1
+# coffee-machine
